@@ -1,0 +1,51 @@
+id_transaccion,fecha,producto,categoria,cantidad,precio_unitario,total_final,metodo_pago,aplico_descuento,estado_envio
+TX1001,2026-05-18,Silla Ergonómica,Mobiliario,1,250.0,250.0,PayPal,False,Entregado
+TX1002,2026-04-12,Monitor 4K,Electrónica,1,450.0,405.0,Tarjeta de Crédito,True,Entregado
+TX1003,2026-05-23,Silla Ergonómica,Mobiliario,1,250.0,250.0,Tarjeta de Crédito,False,Entregado
+TX1004,2026-05-12,Smartphone X,Electrónica,1,800.0,800.0,Tarjeta de Crédito,False,Entregado
+TX1005,2026-05-25,Monitor 4K,Electrónica,1,450.0,450.0,Tarjeta de Crédito,False,Entregado
+TX1006,2026-03-31,Auriculares Bluetooth,Accesorios,1,150.0,150.0,PayPal,False,Entregado
+TX1007,2026-04-20,Teclado Mecánico,Accesorios,1,100.0,100.0,Tarjeta de Crédito,False,Entregado
+TX1008,2026-01-04,Cargador Rápido USB-C,Accesorios,1,30.0,27.0,PayPal,True,Entregado
+TX1009,2026-03-23,Laptop Pro 15,Electrónica,1,1200.0,1080.0,Tarjeta de Crédito,True,Entregado
+TX1010,2026-05-18,Smartphone X,Electrónica,1,800.0,800.0,Tarjeta de Crédito,False,Entregado
+TX1011,2026-01-14,Monitor 4K,Electrónica,1,450.0,450.0,PayPal,False,Entregado
+TX1012,2026-04-03,Teclado Mecánico,Accesorios,1,100.0,100.0,Tarjeta de Crédito,False,Entregado
+TX1013,2026-06-27,Laptop Pro 15,Electrónica,2,1200.0,2400.0,Débito,False,Entregado
+TX1014,2026-04-27,Teclado Mecánico,Accesorios,1,100.0,100.0,PayPal,False,Entregado
+TX1015,2026-04-02,Cargador Rápido USB-C,Accesorios,1,30.0,30.0,PayPal,False,Entregado
+TX1016,2026-05-27,Silla Ergonómica,Mobiliario,1,250.0,250.0,Tarjeta de Crédito,False,Entregado
+TX1017,2026-03-12,Monitor 4K,Electrónica,1,450.0,450.0,Débito,False,Entregado
+TX1018,2026-01-26,Teclado Mecánico,Accesorios,1,100.0,90.0,Débito,True,Entregado
+TX1019,2026-01-31,Cargador Rápido USB-C,Accesorios,1,30.0,30.0,PayPal,False,Entregado
+TX1020,2026-06-03,Smartphone X,Electrónica,1,800.0,800.0,PayPal,False,Entregado
+TX1021,2026-04-18,Teclado Mecánico,Accesorios,1,100.0,100.0,PayPal,False,En tránsito
+TX1022,2026-03-08,Teclado Mecánico,Accesorios,3,100.0,300.0,Tarjeta de Crédito,False,Entregado
+TX1023,2026-05-13,Cargador Rápido USB-C,Accesorios,3,30.0,90.0,Tarjeta de Crédito,False,Entregado
+TX1024,2026-02-14,Laptop Pro 15,Electrónica,2,1200.0,2400.0,Tarjeta de Crédito,False,Entregado
+TX1025,2026-01-09,Escritorio Elevable,Mobiliario,1,500.0,500.0,Débito,False,Entregado
+TX1026,2026-06-25,Monitor 4K,Electrónica,1,450.0,450.0,Tarjeta de Crédito,False,Entregado
+TX1027,2026-01-14,Teclado Mecánico,Accesorios,1,100.0,100.0,Débito,False,Entregado
+TX1028,2026-04-04,Monitor 4K,Electrónica,1,450.0,450.0,PayPal,False,Entregado
+TX1029,2026-03-26,Laptop Pro 15,Electrónica,1,1200.0,1200.0,Transferencia,False,Cancelado
+TX1030,2026-03-05,Monitor 4K,Electrónica,2,450.0,900.0,Tarjeta de Crédito,False,Entregado
+TX1031,2026-05-02,Smartphone X,Electrónica,1,800.0,800.0,Transferencia,False,Entregado
+TX1032,2026-06-20,Teclado Mecánico,Accesorios,1,100.0,90.0,Tarjeta de Crédito,True,Entregado
+TX1033,2026-04-12,Monitor 4K,Electrónica,2,450.0,900.0,Débito,False,Entregado
+TX1034,2026-05-23,Escritorio Elevable,Mobiliario,1,500.0,500.0,Débito,False,Entregado
+TX1035,2026-01-13,Silla Ergonómica,Mobiliario,2,250.0,450.0,Transferencia,True,Entregado
+TX1036,2026-01-31,Monitor 4K,Electrónica,1,450.0,450.0,Tarjeta de Crédito,False,En tránsito
+TX1037,2026-03-06,Laptop Pro 15,Electrónica,1,1200.0,1200.0,PayPal,False,Entregado
+TX1038,2026-06-18,Auriculares Bluetooth,Accesorios,1,150.0,150.0,PayPal,False,Entregado
+TX1039,2026-02-09,Cargador Rápido USB-C,Accesorios,1,30.0,30.0,PayPal,False,Entregado
+TX1040,2026-02-18,Teclado Mecánico,Accesorios,1,100.0,100.0,PayPal,False,Entregado
+TX1041,2026-06-24,Teclado Mecánico,Accesorios,1,100.0,100.0,PayPal,False,Entregado
+TX1042,2026-03-12,Smartphone X,Electrónica,1,800.0,720.0,PayPal,True,Entregado
+TX1043,2026-01-08,Cargador Rápido USB-C,Accesorios,1,30.0,30.0,Débito,False,Entregado
+TX1044,2026-04-06,Laptop Pro 15,Electrónica,1,1200.0,1080.0,Transferencia,True,Entregado
+TX1045,2026-03-29,Silla Ergonómica,Mobiliario,1,250.0,250.0,PayPal,False,Entregado
+TX1046,2026-01-17,Monitor 4K,Electrónica,1,450.0,405.0,Tarjeta de Crédito,True,Entregado
+TX1047,2026-02-23,Smartphone X,Electrónica,1,800.0,800.0,Transferencia,False,Entregado
+TX1048,2026-04-17,Auriculares Bluetooth,Accesorios,1,150.0,150.0,PayPal,False,Entregado
+TX1049,2026-04-18,Teclado Mecánico,Accesorios,1,100.0,100.0,Tarjeta de Crédito,False,Entregado
+TX1050,2026-05-24,Silla Ergonómica,Mobiliario,1,250.0,250.0,Débito,False,Entregado
