@@ -4,7 +4,7 @@
 Este proyecto analiza el comportamiento de ventas de una tienda en línea enfocada en productos gamer. Permite identificar patrones de compra, categorías más rentables y proyectar hábitos de consumo.
 
 ## 🚀 Demo / App Interactiva
-👉 [Haz clic aquí para ver la aplicación en vivo](TU_LINK_DE_RENDER_O_STREAMLIT)
+👉 [Haz clic aquí para ver la aplicación en vivo](https://ventas-gamer.streamlit.app/)
 
 ## 🛠️ Tecnologías y Herramientas
 - **Lenguaje:** Python 3.x
